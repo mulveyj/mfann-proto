@@ -11,6 +11,24 @@ p {
     background-color: linen;
 }
 
+.navbar-brand {
+    color: floralwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand-blurb {
+    color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 20px;
+}
+
+#topemail {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding-bottom: 0px;
+    color: hotpink;
+}
 .jumbotron {
   display: flex;
   align-items: center;
