@@ -3,3 +3,9 @@ $(document).ready(function() {
         console.log('clicked');
     });
 });
+
+$('.jumbotron').mouseover(function () {
+    $('.profile-img-overlay').show();
+}).mouseout(function () {
+    $('.profile-img-overlay').hide();
+});
